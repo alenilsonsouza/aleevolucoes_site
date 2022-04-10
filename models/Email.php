@@ -82,7 +82,7 @@ class Email extends model{
 		$item = $site->getArray();
 
 		$para    = $item['emails'];
-		$subject = 'Pedido de Orçamento - '.$this->nome;
+		$subject = 'AleEvoluções [Orçamento] - '.$this->nome;
 		$message = "
 		<html>
 		<head>

@@ -33,7 +33,7 @@ $site = $s->getArray();
 <meta property="og:type" content="website">
 <meta property="og:title" content="<?php echo $site['titulo'];?>">
 <meta property="og:description" content="<?php echo $site['descricao'];?>">
-<meta property="og:image" content="https:<?php echo BASE_URL;?>assets/images/post.png">
+<meta property="og:image" content="https:<?php echo BASE_URL;?>assets/images/logo_aleevolucoes.png">
 
 <meta name="description" content="<?php echo $site['descricao'];?>">
 <meta name="keywords" content="<?php echo $site['palavra_chave'];?>">		
